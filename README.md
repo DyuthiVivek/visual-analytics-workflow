@@ -156,4 +156,5 @@ Gephi Project:
 - `collab_graph.gephi`: View graphs of artist collaborations in Gephi.
 
 Report:
+
 Task-3 in the first and second parts in `Report.pdf` describe the workflow and the inferences.
